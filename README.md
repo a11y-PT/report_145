@@ -5,8 +5,8 @@ uri: "https://municipio.mondimdebasto.pt/"   # Entre as aspas escreve o domínio
 a11y_statement: "https://municipio.mondimdebasto.pt/index.php/declaracao-acessibilidade.html" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Município de Mondim de Basto"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "21/09/2026 a 21/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
